@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":224,"text":"Hang sterile saline bag."},{"start":5186,"text":"Connect y-line to sterile saline bag and then prime your y-line."},{"start":46710,"text":"Clamp both y-line extensions and then click the \"next\" button."},{"start":50080,"text":"Clamp red access line and disconnect the patient blood access."},{"start":63864,"text":"Connect red access line to saline bag y-line."},{"start":73824,"text":"Unclamp red access line and its connected y-line."},{"start":77957,"text":"And then you can press the \"confirm all\" button and then press the \"next.\""},{"start":99904,"text":"Clamp blue return line on catheter and set."},{"start":106322,"text":"Disconnect blue return line from patient catheter and connect to saline bag as shown."},{"start":119139,"text":"Unclamp red access and blue return line."},{"start":125221,"text":"Press \"confirm all\" button and then press \"start recirc.\""}]}]};
+    window.globalLoadJsAsset('story_content/5fqM4DWx7Py_transcripts.js', JSON.stringify(data));
+})();
